@@ -1,3 +1,1 @@
-### Olá 👋
-
-- ⚡ Fun fact: ...
+<h1 align=center> Olá 👋
